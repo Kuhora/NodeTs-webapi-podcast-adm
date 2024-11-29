@@ -45,3 +45,4 @@ the name of the podcast, the name of the episode, thumbnail, category and link.
 
 ]
 ```
+GET: returns the list of episodes based on a parameter sent by the Podcast name client.

@@ -7,8 +7,14 @@
 },
 {
     "podcastName": "PowerfulJRE",
-    "episodeName": "Joe Rogan Experience #1278 - Kevin Hart ",
+    "episodeName": "Joe Rogan Experience #1278 - Kevin Hart",
     "videoId": "XW_KhFq4LQo",
     "category": ["actor", "comedian"]
+},
+{
+    "podcastName": "Chris Williamson",
+    "episodeName": "Discipline, Motivation & The Champion’s Mindset - Chris Bumstead (4K)",
+    "videoId": "DHWEqlG7DI0",
+    "category": ["bodybuilder", "sport"]
 }
 ]
