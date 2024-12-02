@@ -6,12 +6,12 @@ An application that separates podcasts with different categories and episodes
 
 ## Features
 
-- **List podcasts in category sections [Health, Fitness, mentality, humor]
-- **Filter episodes by name
+- List podcasts in category sections [Health, Fitness, mentality, humor]**
+- Filter episodes by name
 
 ## How
 
-- ** Return in an api rest (json) the name of the podcast, the name of the episode, thumbnail, category and link.
+- Return in an api rest (json) the name of the podcast, the name of the episode, thumbnail, category and link.
 
 
 ### List podcast episodes in category sections
